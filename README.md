@@ -4,7 +4,6 @@ It allows customers to sign up, log in, rent vehicles, return them, and view the
 
 The project demonstrates Abstraction, Inheritance, Encapsulation, and Polymorphism in a real-world application.
 
-.
 ├── Vehicle.java        # Abstract base class for all vehicles
 ├── Car.java            # Car extends Vehicle
 ├── Bike.java           # Bike extends Vehicle
